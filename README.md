@@ -1,0 +1,2 @@
+# myPygame
+Simple python game
